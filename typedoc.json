@@ -1,0 +1,7 @@
+{
+    "entryPoints": ["src/index.ts", "src/Basic/**/*", "src/Intermediate/**/*", "src/Advanced/**/*"],
+    "out": "docs",
+    "includeVersion": true,
+    "excludeExternals": true
+  }
+  
